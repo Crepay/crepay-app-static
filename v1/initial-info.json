@@ -1,4 +1,6 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "v0.8.9"
+  "latestVersion": {
+    "code": 15,
+    "name": "v0.8.9"
+  }
 }
