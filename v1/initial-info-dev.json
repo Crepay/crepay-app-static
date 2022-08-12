@@ -1,6 +1,10 @@
 {
   "latestVersion": {
     "code": 15,
-    "name": "v0.8.9"
+    "name": "v0.8.9",
+    "link": {
+      "ios": "itms-beta://",
+      "android": "https://play.google.com/apps/internaltest/4700298991561595994"
+    }
   }
 }
