@@ -6,5 +6,12 @@
       "ios": "itms-beta://",
       "android": "https://play.google.com/apps/internaltest/4700298991561595994"
     }
+  },
+  "forceUpdate": {
+    "forcedVersionCode": 26,
+    "linkForUpdate": {
+      "ios": "itms-beta://",
+      "android": "https://play.google.com/apps/internaltest/4700298991561595994"
+    }
   }
 }
