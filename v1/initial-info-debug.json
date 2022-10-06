@@ -1,0 +1,28 @@
+{
+  "latestVersion": {
+    "code": 33,
+    "name": "v1.0.0",
+    "link": {
+      "ios": "itms-beta://",
+      "android": "https://play.google.com/apps/internaltest/4700298991561595994"
+    }
+  },
+
+
+
+
+
+
+
+
+  "forceUpdate": {
+    "forcedVersionCode": 32,
+    "linkForUpdate": {
+      "ios": "itms-beta://",
+      "android": "https://play.google.com/apps/internaltest/4700298991561595994"
+    }
+  },
+  "appStoreReview": {
+    "versionCode": 10000
+  }
+}
