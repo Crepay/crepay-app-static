@@ -23,12 +23,9 @@
       "android": "https://play.google.com/apps/internaltest/4700298991561595994"
     }
   },
-  "appStoreReview": {
-    "versionCode": 10000,
-    "deprecated": "2022.10.06 - 라이브에 나가있지 않고 내부에서만 쓰고 있기 때문에 곧 지워도 됨."
-  },
   "versionCodes": {
-    "staging": 35,
+    "stagingMin": 35,
+    "stagingMax": 36,
     "appStoreReview": 1000
   }
 }
