@@ -17,15 +17,15 @@
 
 
   "forceUpdate": {
-    "forcedVersionCode": 32,
+    "forcedVersionCode": 36,
     "linkForUpdate": {
       "ios": "itms-beta://",
       "android": "https://play.google.com/apps/internaltest/4700298991561595994"
     }
   },
   "versionCodes": {
-    "stagingMin": 35,
-    "stagingMax": 50,
+    "stagingMin": 37,
+    "stagingMax": 1000,
     "appStoreReview": 1000
   }
 }
