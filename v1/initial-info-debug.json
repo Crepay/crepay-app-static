@@ -2,8 +2,8 @@
   "forceUpdate": {
     "forcedVersionCode": 36,
     "linkForUpdate": {
-      "ios": "itms-beta://",
-      "android": "https://play.google.com/apps/internaltest/4700298991561595994"
+      "ios": "itms-beta://apps.apple.com/kr/app/1627738436",
+      "android": "market://details?id=com.crepay.app"
     }
   },
   "versionCodes": {
