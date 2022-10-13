@@ -1,21 +1,4 @@
 {
-  "latestVersion": {
-    "code": 33,
-    "name": "v1.0.0",
-    "link": {
-      "ios": "itms-beta://",
-      "android": "https://play.google.com/apps/internaltest/4700298991561595994"
-    },
-    "deprecated": "2022.10.06 - 라이브에 있는 앱들이 참조하고 있어서 아직 지우면 안됨"
-  },
-
-
-
-
-
-
-
-
   "forceUpdate": {
     "forcedVersionCode": 36,
     "linkForUpdate": {
@@ -24,7 +7,7 @@
     }
   },
   "versionCodes": {
-    "stagingMin": 37,
+    "stagingMin": 38,
     "stagingMax": 1000,
     "appStoreReview": 1000
   }
