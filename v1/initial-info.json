@@ -1,14 +1,14 @@
 {
   "forceUpdate": {
-    "forcedVersionCode": 48,
+    "forcedVersionCode": 49,
     "linkForUpdate": {
       "ios": "itms-apps://apps.apple.com/kr/app/1627738436",
       "android": "market://details?id=com.crepay.app"
     }
   },
   "versionCodes": {
-    "appStoreReview": 50,
-    "stagingMin": 50,
+    "appStoreReview": 10000,
+    "stagingMin": 10000,
     "stagingMax": 20000
   }
 }
