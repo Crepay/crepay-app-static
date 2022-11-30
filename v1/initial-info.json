@@ -8,7 +8,7 @@
   },
   "versionCodes": {
     "appStoreReview": 10000,
-    "stagingMin": 49,
-    "stagingMax": 49
+    "stagingMin": 51,
+    "stagingMax": 10000
   }
 }
