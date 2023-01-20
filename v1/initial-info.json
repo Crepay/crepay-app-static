@@ -6,6 +6,12 @@
       "android": "market://details?id=com.crepay.app"
     }
   },
+  "serviceAvailability": {
+    "available": true,
+    "expectedTimeToBeAvailable": 1674183500000,
+    "unavailableNoticeTitle": "새로운 기능 추가 중",
+    "unavailableNoticeContent": "크레페이를 잠시 사용할 수 없습니다.\n약 ${1}후부터 가능해질 예정입니다."
+  },
   "versionCodes": {
     "appStoreReview": 10000,
     "stagingMin": 10000,
