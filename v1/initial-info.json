@@ -8,7 +8,7 @@
   },
   "serviceAvailability": {
     "available": false,
-    "expectedTimeToBeAvailable": 1675171800000,
+    "expectedTimeToBeAvailable": 1675173600000,
     "unavailableNoticeTitle": "새로운 기능이 추가되고 있습니다!",
     "unavailableNoticeContent": "크레페이를 잠시 사용할 수 없습니다.\n약 ${1}후부터 가능해질 예정입니다."
   },
