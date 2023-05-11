@@ -1,11 +1,11 @@
 {
   "forceUpdate": {
     "android": {
-      "targetVersion": 98,
+      "targetVersion": 100,
       "link": "market://details?id=com.crepay.app"
     },
     "ios": {
-      "targetVersion": 98,
+      "targetVersion": 100,
       "link": "itms-apps://apps.apple.com/kr/app/1627738436"
     },
     "forcedVersionCode": 98,
