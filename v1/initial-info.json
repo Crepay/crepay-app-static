@@ -1,11 +1,11 @@
 {
   "forceUpdate": {
     "android": {
-      "targetVersion": 100,
+      "targetVersion": 104,
       "link": "market://details?id=com.crepay.app"
     },
     "ios": {
-      "targetVersion": 100,
+      "targetVersion": 104,
       "link": "itms-apps://apps.apple.com/kr/app/1627738436"
     },
     "forcedVersionCode": 98,
@@ -15,14 +15,14 @@
     }
   },
   "serviceAvailability": {
-    "available": true,
-    "expectedTimeToBeAvailable": 1683773400000,
+    "available": false,
+    "expectedTimeToBeAvailable": 1686558600000,
     "unavailableNoticeTitle": "새로운 기능이 추가되고 있습니다!",
     "unavailableNoticeContent": "크레페이를 잠시 사용할 수 없습니다.\n약 ${1} 후에 가능해질 예정입니다."
   },
   "versionCodes": {
     "appStoreReview": 20000,
-    "stagingMin": 105,
+    "stagingMin": 106,
     "stagingMax": 20000
   }
 }
