@@ -7,11 +7,6 @@
     "ios": {
       "targetVersion": 104,
       "link": "itms-apps://apps.apple.com/kr/app/1627738436"
-    },
-    "forcedVersionCode": 104,
-    "linkForUpdate": {
-      "ios": "itms-apps://apps.apple.com/kr/app/1627738436",
-      "android": "market://details?id=com.crepay.app"
     }
   },
   "serviceAvailability": {
@@ -22,7 +17,7 @@
   },
   "versionCodes": {
     "appStoreReview": 20000,
-    "stagingMin": 106,
+    "stagingMin": 20000,
     "stagingMax": 20000
   }
 }
