@@ -18,8 +18,8 @@
     "unavailableNoticeContent": "크레페이를 잠시 사용할 수 없습니다.\n약 ${1} 후에 가능해질 예정입니다."
   },
   "versionCodes": {
-    "appStoreReview": 129,
-    "stagingMin": 117,
+    "appStoreReview": 20000,
+    "stagingMin": 130,
     "stagingMax": 20000
   }
 }
