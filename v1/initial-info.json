@@ -1,13 +1,13 @@
 {
   "forceUpdate": {
     "android": {
-      "availableMin": 161,
-      "targetVersion": 160,
+      "availableMin": 166,
+      "targetVersion": 165,
       "link": "market://details?id=com.crepay.app"
     },
     "ios": {
-      "availableMin": 161,
-      "targetVersion": 160,
+      "availableMin": 166,
+      "targetVersion": 165,
       "link": "itms-apps://apps.apple.com/kr/app/1627738436"
     }
   },
